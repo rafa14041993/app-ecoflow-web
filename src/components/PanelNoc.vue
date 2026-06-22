@@ -1,6 +1,6 @@
 <script setup>
 // Importamos nuestro archivo lógico
-import { useNocLogic } from './useNocLogic'
+import { useNocLogic } from './useNocLogic.js'
 
 // Extraemos las variables y funciones que usamos en el HTML
 const {
